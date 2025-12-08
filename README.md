@@ -1,5 +1,5 @@
 # PuthiSaalai - Smart Traffic Management (Prototype)
-**Authors:** Embedded Systems Team (Hackathon Submission)
+**Authors:** Embedded Systems Team (Police Hackathon Submission)
 **Purpose:** Lightweight, low-cost working prototype demonstrating smart traffic management features suitable for the Tuticorin District Police cyber hackathon.
 
 ## Contents
